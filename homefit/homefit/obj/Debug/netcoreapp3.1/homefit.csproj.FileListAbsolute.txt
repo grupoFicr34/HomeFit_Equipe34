@@ -1,0 +1,13 @@
+C:\home-fit-console\homefit\homefit\bin\Debug\netcoreapp3.1\homefit.exe
+C:\home-fit-console\homefit\homefit\bin\Debug\netcoreapp3.1\homefit.deps.json
+C:\home-fit-console\homefit\homefit\bin\Debug\netcoreapp3.1\homefit.runtimeconfig.json
+C:\home-fit-console\homefit\homefit\bin\Debug\netcoreapp3.1\homefit.runtimeconfig.dev.json
+C:\home-fit-console\homefit\homefit\bin\Debug\netcoreapp3.1\homefit.dll
+C:\home-fit-console\homefit\homefit\bin\Debug\netcoreapp3.1\homefit.pdb
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.csprojAssemblyReference.cache
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.AssemblyInfoInputs.cache
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.AssemblyInfo.cs
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.csproj.CoreCompileInputs.cache
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.dll
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.pdb
+C:\home-fit-console\homefit\homefit\obj\Debug\netcoreapp3.1\homefit.genruntimeconfig.cache
